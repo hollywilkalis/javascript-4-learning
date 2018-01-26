@@ -1,0 +1,20 @@
+{
+  "name": "javascript-learning",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Holly Wilkalis <holly.wilkalis@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hollywilkalis/javascript-4-learning",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
