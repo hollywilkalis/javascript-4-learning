@@ -1,22 +1,35 @@
-# Learning
+# Learning - Javascript Week 4
+
+#### This is a self-reflective project to identify our strengths and weaknesses as coders and develop a plan for working on those weak spots.
+
+#### By Holly Wilkalis
+
+## Description
+
+After making my strengths and weaknesses list, it's clear that I've got a lot of anxiety about being ready for the technical interviews, and that I feel like I need to work on technical vocabulary and get better at writing code from scratch.
+
+Since I also wanted to practice the Angular routing from this week, I made a small site with my S/W list and resources and steps I can take to address this. I wanted a central repository to keep track of some of these ideas and tools. I did a lot of reading and research, and also worked on some Javascript exercises with FreeCodeCamp and began my first project with Javascript30.
+
+For further practice, I plan to try to continue maintaining this and adding a more specific task list for myself to increase accountability.
+
+## Support and contact details
+
+E-mail: holly.wilkalis@gmail.com.
+
+## Technologies Used
+
+This site uses Angular2, Typescript and Bootstrap
+
+### License
+
+MIT License
+
+Copyright (c) 2013 **Holly Wilkalis**
+
+# Learning and Javascript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
-## Strengths
-* Lots of experience managing content and organizing information on the front end of sites.
-* Curiosity!
-* Not afraid to "break" things or experiment in pursuit of knowledge/new skills.
-* I have a good feel for user interface design and how users interact with content.
-* I think that with some further work on my technical vocabulary (see below) I'd be great in some sort of business analyst role.
-* I am a whiz with Bootstrap - its logic and structure makes sense to me.
-* I secretly enjoy cleaning up messy sites. I've done a lot of that working on sites managed with a CMS (looking for redundancies, cleaning up outdated content, better structuring HTML within pages to suit the information flow, etc). I want to keep working on my Javascript/etc. skills so that I can apply these same skills to that end of things.
-
-
-## Weaknesses
-* The prospect of technical interviews, particularly whiteboarding, is giving me a lot of anxiety. I don't think my ability to write code without resorting to notes and cheat sheets and heavily using Atom/Typescript/etc. prompts and assists is as strong as it needs to be. I get there, but I'm not fast and still relying a lot on trial and error (it's just one of the ways in which I learn).
-* My technical vocabulary. I find that though I often understand the concepts I have trouble expressing it using the correct terminology. I want to work on my technical fluency.
-* Despite the above, I need more confidence in my own skills so I don't choke in an interview, even if I can't immediately find the right words.
-* I have in the past found that I'm good at troubleshooting technical issues. I'm persistent and I think I have good instincts. When it comes to coding though, I need to work more on this by 1) consciously making a list of all the things I know that I can try and 2) continuing to improve my grasp of the language to make sure that I'm better able to understand error messages and technical documentation.
 
 ## Development server
 
